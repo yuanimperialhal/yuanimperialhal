@@ -1,11 +1,13 @@
 <div align="center">
 
-# 浣犲ソ锛屾垜鏄?Turbo Yuan 馃憢
+# 你好，我是 Turbo Yuan 👋
 
-### 鏈哄櫒浜鸿蒋浠跺紑鍙戝伐绋嬪笀锝滃叿韬櫤鑳藉簲鐢ㄦ柟鍚?
-**Python 路 C++ 路 ROS 2 路 Agent 路 Isaac Sim 路 Docker 路 Jetson**
+### 机器人软件开发工程师｜具身智能应用方向
 
-涓昏鍏虫敞鏈哄櫒浜鸿蒋浠跺紑鍙戙€佸ぇ妯″瀷 Agent 搴旂敤銆佹満鍣ㄤ汉浠跨湡涓庤竟缂樿澶囬儴缃层€?
+**Python · C++ · ROS 2 · Agent · Isaac Sim · Docker · Jetson**
+
+主要关注机器人软件开发、大模型 Agent 应用、机器人仿真与边缘设备部署。
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuanimperialhal/yuanimperialhal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuanimperialhal/yuanimperialhal/output/github-snake.svg" />
