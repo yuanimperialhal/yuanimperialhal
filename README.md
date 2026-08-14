@@ -1,4 +1,4 @@
-#<div align="center">
+<div align="center">
 
 # 你好，我是 Turbo Yuan 👋
 
@@ -14,4 +14,4 @@
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/yuanimperialhal/yuanimperialhal/output/github-snake.svg" />
 </picture>
 
-#</div>
+</div>
